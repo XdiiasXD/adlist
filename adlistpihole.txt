@@ -1,2 +1,3 @@
 127.0.0.1 yieldtrk.com
 127.0.0.1 betano.pt
+127.0.0.1 network-internet.com
